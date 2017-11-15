@@ -1,6 +1,9 @@
 # DoubleGauge
 A small vanilla javascript/svg component that visualizes a two-dimensional OEE (Overall Equipment Efficiency) value using two crossing needles.
-'''html
+
+Usage:
+
+```html
     <div id="gauge"/>
     <script src="DoubleGauge.js"></script>
     <script>
@@ -11,5 +14,8 @@ A small vanilla javascript/svg component that visualizes a two-dimensional OEE (
         //Optional: Animate the gauges randomly with parameterized sleep time
         gauge.animateRandom(250);
     </script>
-'''
+```
+
+Screenshot:
+
 ![visualization](https://github.com/boonzaai/doublegauge/blob/master/doublegauge.png)
