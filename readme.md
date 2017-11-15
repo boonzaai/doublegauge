@@ -19,3 +19,7 @@ Usage:
 Screenshot:
 
 ![visualization](https://github.com/boonzaai/doublegauge/blob/master/doublegauge.png)
+
+Demo:
+
+![visualization](https://github.com/boonzaai/doublegauge/blob/master/doublegauge.gif)
